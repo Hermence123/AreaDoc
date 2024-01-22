@@ -1,0 +1,10 @@
+site_name: My Docs
+
+nav:
+  - Technicaldocs: technical.md
+  - Userguide: userguide.md
+  - AreaDEvops: AreaDEvops.md
+  - README: Readmefile.md
+
+theme:
+  name: readthedocs
